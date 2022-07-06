@@ -1,2 +1,2 @@
 # Jogo-da-Memoria
-Jogo da Memoria com HTML, CSS e JavaScript
+Jogo da Memoria criado com HTML, CSS e JavaScript para projeto da Digital Innovation One.
